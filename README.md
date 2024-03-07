@@ -1,7 +1,7 @@
 ### Heyy!! I'm Gabriel Eduardo de Miranda 🐢🤙🤙
 * Currently, a Computer Science student at FAM Centro Universitário, studying in the fifth semester
-* I'm 20yo, live in São Paulo 🇧🇷, studying to be a programmer
-* Working as Programming Course Instructor  
+* I'm 20yo, live in São Paulo 🇧🇷, studying to be a programme
+* Studying to be a Full-Stack Developer and looking for new opportunities
 <br>
 
 
